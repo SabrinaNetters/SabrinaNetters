@@ -1,4 +1,4 @@
-- 👋 Hello everyon, I’m @SabrinaNetters
+- 👋 Hello everyone, I’m @SabrinaNetters
 - I’m a software developer, specilizing in frontend and web development. I love html and css and I think JavaScript is pretty cool!
 - I’m currently improving my web development skills which includes html, css, and JavaScript, but I am also learning and improving on
   JavaScript frameworks (React, Angular) and CSS frameworks (Bootstrap, Tailwind). 
